@@ -1,10 +1,12 @@
 # minishell
 
-About
+## About
 
 Minishell is the second project of the Unix branch at Epitech. It's a minimum viable version of a real shell. The main goal is to have a good understanding of process creation and synchronisation using the C programmming language.
-Installation & Usage
-Requirements
+
+## Installation & Usage
+
+### Requirements
 
 The only requirements are:
 
@@ -12,7 +14,8 @@ The only requirements are:
     GCC
 
 Those versions are the ones used during development.
-Building the program
+
+## Building the program
 
     Download/Clone this repo
 
@@ -23,7 +26,7 @@ Building the program
      cd minishell
      make
 
-Running the program
+### Running the program
 
 After building the source, run ./mysh from the project root.
 Main Project Instructions
